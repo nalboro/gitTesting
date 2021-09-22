@@ -1,1 +1,3 @@
 To jest zmiana pliku na master
+To jest zmiana na newBranch
+
